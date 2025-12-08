@@ -1,0 +1,2 @@
+include ':app', ':tv_app'
+rootProject.name = "TVUPI"

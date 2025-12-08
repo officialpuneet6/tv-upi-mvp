@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254520018910",
+    "project_id": "tv-upi-mvp",
+    "storage_bucket": "tv-upi-mvp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254520018910:android:ea155e74508ac67755bf4f",
+        "android_client_info": {
+          "package_name": "com.upinot.puneetrajput"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByvEX5DOnl-XyAVpNST7H0hRzOIra9LPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
