@@ -1,0 +1,22 @@
+# Firebase Sensitive Files
+google-services.json
+android/app/google-services.json
+android/tv_app/google-services.json
+
+# Android Build Files
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+local.properties
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# IDE Files
+.idea/
+*.iml
+.DS_Store
